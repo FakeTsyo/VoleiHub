@@ -21,7 +21,7 @@ icon.Name = "Icon"
 icon.Size = UDim2.new(0, 56, 0, 56)
 icon.Position = UDim2.new(0, 16, 0, 70)
 icon.BackgroundTransparency = 1
-icon.Image = "rbxassetid://6031091002" -- ícone de bola de vôlei
+icon.Image = "rbxassetid://81037650313380" -- ícone de bola de vôlei
 icon.Parent = sg
 
 -- Frame principal
