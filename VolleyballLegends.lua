@@ -57,7 +57,7 @@ end)
 icon.MouseButton1Click:Connect(function() main.Visible = not main.Visible end)
 
 local title = Instance.new("TextLabel",main)
-title.Text = "Lendas do Vôlei Mobile"
+title.Text = "Leozin Hub Volleyball Legends"
 title.Font = Enum.Font.GothamBlack
 title.TextSize = 18
 title.Size = UDim2.new(1,0,0,32)
